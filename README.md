@@ -1,4 +1,4 @@
-<img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-top.jpg" width="100%"/>
+<img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-top-2.jpg" width="100%"/>
 <h2 align="center"> Shawn Rose | Developer</h2>
 
 <h2 align="center">Front End Web Developer | Email Developer | Web Content Management</h2>
