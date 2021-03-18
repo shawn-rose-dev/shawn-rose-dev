@@ -1,7 +1,8 @@
 <h2 align="center"> Shawn Rose | Developer</h2>
+<h3 align="center">HTML | CSS </h3>
 <p align="center">
   
-  <a href="">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/shawn-rose-dev/">LinkedIn</a> 
 
 </p>
 <!---
