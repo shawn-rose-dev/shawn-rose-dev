@@ -1,5 +1,5 @@
 <h2 align="center"> Shawn Rose | Developer</h2>
-<h3 align="center">HTML | CSS </h3>
+<h3 align="center">Front End Web Developer | Email Developer | Web Content Management</h3>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/shawn-rose-dev/">LinkedIn</a> 
