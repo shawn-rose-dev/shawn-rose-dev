@@ -9,6 +9,6 @@
 
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-3.jpg" width="100%"/>
 
-<!--<img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-4.jpg" width="100%"/>
+<img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-4-no-txt.jpg" width="100%"/>
 
 
