@@ -10,14 +10,14 @@
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-4-no-txt.jpg" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shawn-rose-dev/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/shawn-rose-dev/" target="_blank">LinkedIn</a> |
   <a href="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/Shawn-Rose-Resume-2021.pdf/">Resume</a> |
-  <a href="mailto:boomer89@gmail.com">email</a> 
+  <a href="mailto:boomer89@gmail.com" target="_blank">email</a> 
 </p>
 
 <p align="center">
 <a href="https://open.spotify.com/user/_ramblinrose">
-  <img  alt="Spotify" width="22px" src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/spotify.svg" />
+  <img  alt="Spotify" width="22px" src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/spotify.svg" target="_blank" />
 </a>
 </p>
 
