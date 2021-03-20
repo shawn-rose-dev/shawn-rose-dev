@@ -1,5 +1,5 @@
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-top-2.jpg" width="100%"/>
-<h2 align="center"> Shawn Rose | Developer</h2><h2 align="center">Front End Web Developer | Email Developer | Web Content Management</h2>
+<!--<h2 align="center"> Shawn Rose | Developer</h2><h2 align="center">Front End Web Developer | Email Developer | Web Content Management</h2>
 
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-2.jpg" width="100%"/>
 
