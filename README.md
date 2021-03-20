@@ -3,9 +3,9 @@
 <h2 align="center">Front End Web Developer | Email Developer | Web Content Management</h2>
 
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-2.jpg" width="100%"/>
-
+<hr>
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-3.jpg" width="100%"/>
-
+<hr>
 <img src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/cloudsy-sec-4-no-txt.jpg" width="100%"/>
 
 <p align="center">
