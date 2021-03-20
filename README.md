@@ -15,3 +15,9 @@
   <a href="mailto:boomer89@gmail.com">email</a> 
 </p>
 
+<p align="center">
+<a href="https://open.spotify.com/user/_ramblinrose">
+  <img  alt="Spotify" width="22px" src="https://github.com/shawn-rose-dev/shawn-rose-dev/blob/main/spotify.svg" />
+</a>
+</p>
+
